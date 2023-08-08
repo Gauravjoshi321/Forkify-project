@@ -4,8 +4,8 @@
   "description": "Recipe application",
   "default": "index.html",
   "scripts": {
-    "start": "index.html",
-    "build": "build index.html"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "Gaurav Joshi",
   "license": "ISC",
